@@ -6,3 +6,12 @@
     --color-5: #86F7B8;
     --color-6: #2b2c2e;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--color-5);
+}
